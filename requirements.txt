@@ -1,0 +1,12 @@
+colorama==0.4.6
+tld==0.12.6
+googlesearch-python==1.1.0
+requests==2.25.1
+beautifulsoup4==4.9.3
+soupsieve==2.3.2.post1
+wordcloud==1.8.2.2
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
